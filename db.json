@@ -1,0 +1,62 @@
+{
+  "cats": [
+    {
+      "id": 1,
+      "url": "https://i.pinimg.com/originals/07/63/14/076314114f12aa9d0e59c75d932651b7.jpg"
+    },
+    {
+      "id": 2,
+      "url": "https://3.bp.blogspot.com/-w3cQcJMaNTg/UAcZRekCREI/AAAAAAAAA6A/heN8ZNsXzjQ/s1600/catpicturess+(1).jpg"
+    },
+    {
+      "id": 3,
+      "url": "https://wallpaperplay.com/walls/full/e/4/1/72404.jpg"
+    },
+    {
+      "id": 4,
+      "url": "https://i.pinimg.com/originals/69/2e/64/692e6421912e29184674dd58ef9f5e18.jpg"
+    },
+    {
+      "id": 5,
+      "url": "https://wallpaperplay.com/walls/full/e/4/1/72404.jpg"
+    },
+    {
+      "id": 6,
+      "url": "https://i.pinimg.com/originals/69/2e/64/692e6421912e29184674dd58ef9f5e18.jpg"
+    },
+    {
+      "id": 7,
+      "url": "https://i.pinimg.com/originals/07/63/14/076314114f12aa9d0e59c75d932651b7.jpg"
+    }
+  ],
+  "dogs": [
+    {
+      "id": 1,
+      "url": "https://i.pinimg.com/originals/3f/8c/70/3f8c70af4c84d74fb1196d4e28607f58.jpg"
+    },
+    {
+      "id": 2,
+      "url": "https://i.pinimg.com/originals/a5/d5/2b/a5d52bf7a10b6468e2d72fa2829c6dfe.jpg"
+    },
+    {
+      "id": 3,
+      "url": "https://wallpapercave.com/wp/kdWBfdm.jpg"
+    },
+    {
+      "id": 4,
+      "url": "https://i.pinimg.com/originals/29/a1/d3/29a1d372c3ce5b03b6c31b90a1f7fb5d.jpg"
+    },
+    {
+      "id": 5,
+      "url": "https://blog.mystart.com/wp-content/uploads/shutterstock_224423782-1-e1527774744419.jpg"
+    },
+    {
+      "id": 6,
+      "url": "https://i.pinimg.com/originals/a5/d5/2b/a5d52bf7a10b6468e2d72fa2829c6dfe.jpg"
+    },
+    {
+      "id": 7,
+      "url": "https://blog.mystart.com/wp-content/uploads/shutterstock_224423782-1-e1527774744419.jpg"
+    }
+  ]
+}
